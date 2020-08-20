@@ -1,0 +1,124 @@
+#overlay_c{
+	position: absolute; top:3px;left:3px;
+	z-index:2;
+	color: cyan;
+}
+#overlay_m{
+	position: absolute; top:2px;left:2px;
+	z-index:1;
+	color: magenta;
+}
+#overlay_y{
+	position: absolute; top:3px;left:3px;
+	z-index:1;
+	color: yellow;
+}
+#overlay_k{
+	position: absolute; top:0px;left:0px;
+	z-index:100;
+}
+pre { 
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif; 
+	font-size: 9px; 
+	line-height: 0px; 
+}
+
+span.c1 {
+  color: #e6ffffE6;
+}
+span.c2 {
+  color: #ccffffE6;
+}
+span.c3 {
+  color: #99ffffE6;
+}
+span.c4 {
+  color: #66ffffE6;
+}
+span.c5 {
+  color: #33ffffE6;
+}
+span.c6 {
+  color: #00ffffE6;
+}
+span.c7 {
+  color: #00ffffE6;
+}
+span.c8 {
+  color: #00ffffE6;
+}
+
+span.m1 {
+  color: #ffe6ff;
+}
+span.m2 {
+  color: #ffe6ff;
+}
+span.m3 {
+  color: #ffe6ff;
+}
+span.m4 {
+  color: #ffccff;
+}
+span.m5 {
+  color: #ff99ff;
+}
+span.m6 {
+  color: #ff66ff;
+}
+span.m7 {
+  color: #ff33ff;;
+}
+span.m8 {
+  color: #ff00ff;
+}
+
+span.y1 {
+  color: #ffffe6;
+}
+span.y2 {
+  color: #ffffe6;
+}
+span.y3 {
+  color: #ffffcc;
+}
+span.y4 {
+  color: #ffff99;
+}
+span.y5 {
+  color: #ffff66;
+}
+span.y6 {
+  color: #ffff33;
+}
+span.y7 {
+  color: #ffff00;
+}
+span.y8 {
+  color: #ffff00;
+}
+
+span.k1 {
+  color: #e6e6e6;
+}
+span.k2 {
+  color: #bfbfbf;
+}
+span.k3 {
+  color: #999999;
+}
+span.k4 {
+  color: #737373;
+}
+span.k5 {
+  color: #4d4d4d;
+}
+span.k6 {
+  color: #262626;
+}
+span.k7 {
+  color: #000000;
+}
+span.k8 {
+  color: #000000;
+}
